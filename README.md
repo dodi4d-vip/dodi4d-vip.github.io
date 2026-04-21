@@ -3,7 +3,7 @@
 <html data-theme='default'>
 <head>
 <meta charset='utf-8'>
-<title>JUMPA4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik</title>
+<title>DODI4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik</title>
 <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/2u2pznarsb/download-removebg-preview.png?updatedAt=1739592741143" />
 <link rel="apple-touch-icon" href="https://ik.imagekit.io/2u2pznarsb/download-removebg-preview.png?updatedAt=1739592741143">
 <link rel="canonical" href="https://dodi4d-vip.github.io/">
@@ -58,8 +58,8 @@
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
 <meta content='teepublic' name='cloudinary_cloud_name'>
 <meta content='index, follow' name='robots'>
-<meta content='JUMPA4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.'>
-<meta property="og:description" content="JUMPA4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.">
+<meta content='DODI4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.'>
+<meta property="og:description" content="DODI4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.">
 <meta property="og:price:amount" content="99.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
@@ -82,7 +82,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://dodi4d-vip.github.io/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://dodi4d-vip.github.io/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"JUMPA4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"JUMPA4D","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey JUMPA4D","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://dodi4d-vip.github.io/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://dodi4d-vip.github.io/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"DODI4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"DODI4D","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey DODI4D","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -90,25 +90,25 @@
     "ecommerce": {
       "detail": {
          "products": [{
-          "category": "JUMPA4D",
+          "category": "DODI4D",
           "parent_id": "77125264D1V",
           "product_id": "357",
           "price": "23.0",
           "price_usd": "23.0",
-          "name": "JUMPA4D",
+          "name": "DODI4D",
           "id": "74235272",
-          "brand": "Situs JUMPA4D",
+          "brand": "Situs DODI4D",
           "design_color": "Red",
           "product_image": "https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg",
           "variant_id": "91G79A8C",
           "design_owner_id": "6705586",
-          "design_primary_tag": "JUMPA4D",
+          "design_primary_tag": "DODI4D",
           "design_on_sale": "false",
           "variant": '{"Gender":"Male Fit","Style":"Classic T-Shirt","Color":"Red"}',
             "dimension34": '84165122D1V17G79A7C',
             "dimension37": 'false',
             "dimension42": 'https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg',
-            "dimension44": 'JUMPA4D',
+            "dimension44": 'DODI4D',
             "dimension46": '6705586',
             "dimension47": 'designer'
          }]
@@ -198,7 +198,7 @@ ga('require', 'GTM-KL3BC7L');
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://ik.imagekit.io/2u2pznarsb/download-removebg-preview.png?updatedAt=1739592741143" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 </span>
 <strong>
-JUMPA4D
+DODI4D
  </strong>
 &&nbsp;
 <strong>
@@ -224,7 +224,7 @@ JUMPA4D
   <img class="vc-header-logo__image" 
        src="https://ik.imagekit.io/2u2pznarsb/imgpsh_fullsize_anim%20(6).webp?updatedAt=1739493799672"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
-       alt="JUMPA4D Logo">
+       alt="DODI4D Logo">
 </picture>
 
 
@@ -240,9 +240,9 @@ JUMPA4D
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
-<p>SEARCH DI GOOGLE JUMPA4D</p>
-<p>SITUS JUMPA4D</p>
-<p>LINK JUMPA4D</p>
+<p>SEARCH DI GOOGLE DODI4D</p>
+<p>SITUS DODI4D</p>
+<p>LINK DODI4D</p>
 </div>
 </div>
 <input type="text" name="query" id="jsAutoCompleteHeader" class="form__control m-header__search-field jsHeadSearchField gtmSearchHeaderQuery" data-searchUrl="/search/autocomplete" data-trendingSearchResults="[{&quot;result&quot;:&quot;kpop demon hunters&quot;,&quot;score&quot;:38.23},{&quot;result&quot;:&quot;weird twitter&quot;,&quot;score&quot;:18.57},{&quot;result&quot;:&quot;eagles football&quot;,&quot;score&quot;:17.06},{&quot;result&quot;:&quot;detroit lions&quot;,&quot;score&quot;:16.81},{&quot;result&quot;:&quot;i offended you&quot;,&quot;score&quot;:16.45},{&quot;result&quot;:&quot;i run a tight shipwreck&quot;,&quot;score&quot;:7.38},{&quot;result&quot;:&quot;bad bunny&quot;,&quot;score&quot;:7.13},{&quot;result&quot;:&quot;jane goodall&quot;,&quot;score&quot;:6.8},{&quot;result&quot;:&quot;bad knees&quot;,&quot;score&quot;:6.16},{&quot;result&quot;:&quot;kindness is punk&quot;,&quot;score&quot;:5.91},{&quot;result&quot;:&quot;aunt tifa&quot;,&quot;score&quot;:5.86},{&quot;result&quot;:&quot;steelers football&quot;,&quot;score&quot;:5.7},{&quot;result&quot;:&quot;eyepatch rev&quot;,&quot;score&quot;:4.9},{&quot;result&quot;:&quot;eagles&quot;,&quot;score&quot;:4.41},{&quot;result&quot;:&quot;jaxson dart&quot;,&quot;score&quot;:4.02},{&quot;result&quot;:&quot;buffalo bills&quot;,&quot;score&quot;:3.94},{&quot;result&quot;:&quot;dungeon crawler carl&quot;,&quot;score&quot;:3.89},{&quot;result&quot;:&quot;doctor who&quot;,&quot;score&quot;:3.87},{&quot;result&quot;:&quot;government shutdown&quot;,&quot;score&quot;:3.61},{&quot;result&quot;:&quot;ankylosaurus&quot;,&quot;score&quot;:3.51},{&quot;result&quot;:&quot;chicago bears&quot;,&quot;score&quot;:3.34},{&quot;result&quot;:&quot;crucial catch&quot;,&quot;score&quot;:2.9},{&quot;result&quot;:&quot;sumud flotilla&quot;,&quot;score&quot;:2.82},{&quot;result&quot;:&quot;funny hardhat&quot;,&quot;score&quot;:2.29},{&quot;result&quot;:&quot;haunted by 67&quot;,&quot;score&quot;:2.21},{&quot;result&quot;:&quot;ozzy osbourne&quot;,&quot;score&quot;:2.2},{&quot;result&quot;:&quot;buffalo bills football team&quot;,&quot;score&quot;:2.13},{&quot;result&quot;:&quot;i am aunt tifa&quot;,&quot;score&quot;:2.04},{&quot;result&quot;:&quot;the river city&quot;,&quot;score&quot;:2.0},{&quot;result&quot;:&quot;super mario&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;rocky horror&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;halloween 3&quot;,&quot;score&quot;:1.82},{&quot;result&quot;:&quot;michael jordan&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;creepshow&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;scott hall&quot;,&quot;score&quot;:1.8},{&quot;result&quot;:&quot;boston celtics&quot;,&quot;score&quot;:1.79},{&quot;result&quot;:&quot;3i atlas&quot;,&quot;score&quot;:1.77},{&quot;result&quot;:&quot;same shit different&quot;,&quot;score&quot;:1.7},{&quot;result&quot;:&quot;chinga la migra&quot;,&quot;score&quot;:1.62},{&quot;result&quot;:&quot;radical left&quot;,&quot;score&quot;:1.61},{&quot;result&quot;:&quot;digimon&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;halloween cat&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;tropic thunder&quot;,&quot;score&quot;:1.42},{&quot;result&quot;:&quot;no kings anti trump&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;no concert today&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;the life of a showgirl&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;seven samurai&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;do not harm authenticc since mmxx take&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;acdc&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;ohio state buckeyes&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;borderlands&quot;,&quot;score&quot;:1.39},{&quot;result&quot;:&quot;star trek&quot;,&quot;score&quot;:1.37},{&quot;result&quot;:&quot;80s movies&quot;,&quot;score&quot;:1.29},{&quot;result&quot;:&quot;max verstappen&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;robocop&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;siempre antifascista&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pelosi funny&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pete rose&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;macho man fred savage&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;youngboy masa&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;dirty dancing&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;las vegas aces&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;syracuse&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;war games&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;johnny cash&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;surfing&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;steelers ireland&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;iron man&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;attack on titan&quot;,&quot;score&quot;:1.18},{&quot;result&quot;:&quot;michael myers&quot;,&quot;score&quot;:1.13},{&quot;result&quot;:&quot;resident evil&quot;,&quot;score&quot;:1.1},{&quot;result&quot;:&quot;wait what&quot;,&quot;score&quot;:1.05},{&quot;result&quot;:&quot;wkrp in cincinnati&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;dodgers baseball&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;cartoon network&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;blue velvwt&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;tombstone&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;can i lick it&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;contra&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;george kittle&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;rick and morty&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;knicks basketball&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;blondie band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;cyberpunk edgerunners&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;drake rapper&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;benito bowl&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;battlefront 2&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chad powers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;slapshot&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;book lovers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;modest mouse&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;new balance&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sunami&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;youngboy&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;rock climbing&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;beanie&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;halloweentown est 1998&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dnd warlock&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;definitely not a cop&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;i love fall most of all&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;renathornton&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;retro philadelphia phillies&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;no problemo&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;weed&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;school bus driver&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chinga tu maga&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;nj devils&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sci fi&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;possum&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;replacements band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;spite&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;political protest&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;scream&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dad&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;red bull&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;80s tv&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;pabst blue ribbon&quot;,&quot;score&quot;:0.99},{&quot;result&quot;:&quot;pittsburgh steelers&quot;,&quot;score&quot;:0.93},{&quot;result&quot;:&quot;cleveland browns&quot;,&quot;score&quot;:0.9},{&quot;result&quot;:&quot;eyepatch reveille&quot;,&quot;score&quot;:0.85},{&quot;result&quot;:&quot;rams football&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;engineer&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;road house&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;pigeon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;lock em up&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;patsymahon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;jesus meme&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;darmok and jalad&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;enemy within&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;unreliable narrator&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;miller high life&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;bernie parent - philadelphia blazers&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;black keys&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;rhino&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;gibson guitar&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;disney land&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;oddworld&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;mike mussina in baltimore orioles&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dressed to impress roblox&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ryan bingham&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;emmet otter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;zildjian cymbals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;no you hang up&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;luigi&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ace ventura&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;tyler thecreator&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;berserk anime&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;grandpa&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the growlers&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the warning&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;care bear&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;protect ya neck&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;poison&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;jason&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fernando valenzuela&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pulseretail&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;show business&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;trailer park&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry mclaurin washington scary terry&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;liliaamer1&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;9/11&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;rey mysterio&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;demon slayer inosuke&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ally&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;german shepherd&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;game of thrones&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;lebron&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dance&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;returns and refund&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;glacier national park montana&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;investor&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;miller lite&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;casper&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry funk&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;big boy&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ny yankees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;super furry animals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;one lonely beastie i be&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dismember band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;bluey lions&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;revenge of the ninja&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;silence ofthe lambs dog&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dia de los muertos sugar skull&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;don&#39;t tell mom the babysitter&#39;s dead&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;siouxie and banshees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fraggle rock  long sleeved&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;halloween characters&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;river city&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;retro kansas city football vintage chiefs est 1960&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the life of an eldest daughter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;manual transmission&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pete rose vintage&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;light yellow tshirt with green lini g&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;international harvester&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;black cats&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;wonder twins&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;volbeat band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;smiley&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;they&#39;re coming to get you barbara&quot;,&quot;score&quot;:0.8}]" data-maxresults="6" data-animated="true" data-navigation--header-target="searchField" data-search-history="true" data-search-history-ca-show-notice="false" data-search-history-clear="<span class=&quot;teepublicon teepublicon--color-neutral-400 teepublicon-background--transparent&quot;><svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 48 48&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;><path d=&quot;M6.88 36.879a3 3 0 1 0 4.242 4.242L24 28.243 36.879 41.12a3 3 0 1 0 4.243-4.242L28.243 24l12.879-12.879a3 3 0 1 0-4.243-4.242L24.001 19.757 11.12 6.88a3 3 0 1 0-4.24 4.24L19.758 24 6.879 36.879Z&quot;></path></svg></span>" data-search-history-clock="<span class=&quot;teepublicon teepublicon--color-neutral-400 teepublicon-background--transparent&quot;><svg viewbox=&quot;0 0 48 48&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;>
@@ -358,13 +358,13 @@ Shop All Designs
 </a>
 <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://dodi4d-vip.github.io/" title="Halloween T-Shirts" href="https://dodi4d-vip.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
-JUMPA4D
+DODI4D
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://dodi4d-vip.github.io/" title="Music T-Shirts" href="https://dodi4d-vip.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
-JUMPA4D MACAU
+DODI4D MACAU
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://dodi4d-vip.github.io/" title="Sport T-Shirts" href="https://dodi4d-vip.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -414,7 +414,7 @@ BANDAR TOTO MACAU
 <div id='fb-root'></div>
 <noscript>
 <div class='no-js-warning'>
-Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
+Selamat Datang Di DODI4D - Official Platform Bandar Toto Macau Terlengkap
 </div>
 </noscript>
 <div id='content'>
@@ -424,14 +424,14 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
         {
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "JUMPA4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik",
+            "name": "DODI4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik",
             "image": "https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715",
-            "description": "JUMPA4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.",
+            "description": "DODI4D hadir sebagai salah satu platform game online yang menawarkan pengalaman bermain yang sederhana namun tetap menguntungkan. Dengan sistem yang stabil dan akses yang cepat, pemain dapat menikmati berbagai permainan tanpa hambatan.",
             "brand": {
                 "@type": "Brand",
-                "name": "JUMPA4D"
+                "name": "DODI4D"
             },
-            "sku": "JUMPA4D",
+            "sku": "DODI4D",
             "mpn": "00771-GCR",
             "url": "https://dodi4d-vip.github.io/",
             "offers": {
@@ -444,7 +444,7 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
                 "availability": "https://schema.org/InStock",
                 "seller": {
                     "@type": "Organization",
-                    "name": "JUMPA4D"
+                    "name": "DODI4D"
                 }
             },
             "aggregateRating": {
@@ -461,7 +461,7 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
                 },
                 "author": {
                     "@type": "Person",
-                    "name": "JUMPA4D"
+                    "name": "DODI4D"
                 }
             }, {
                 "@type": "Review",
@@ -486,13 +486,13 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "JUMPA4D",
+      "name": "DODI4D",
       "item": "https://dodi4d-vip.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "JUMPA4D MACAU",
+      "name": "DODI4D MACAU",
       "item": "https://dodi4d-vip.github.io/"
     },
     {
@@ -535,23 +535,23 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa itu JUMPA4D dan mengapa cocok untuk main Toto Macau?",
+      "name": "Apa itu DODI4D dan mengapa cocok untuk main Toto Macau?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "JUMPA4D adalah official platform Bandar Toto Macau yang menyediakan informasi dan layanan permainan dengan data periode serta pasaran yang lengkap dan terupdate secara berkala."
+        "text": "DODI4D adalah official platform Bandar Toto Macau yang menyediakan informasi dan layanan permainan dengan data periode serta pasaran yang lengkap dan terupdate secara berkala."
       }
     },
     {
       "@type": "Question",
-      "name": "Mengapa JUMPA4D disebut platform terlengkap?",
+      "name": "Mengapa DODI4D disebut platform terlengkap?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "JUMPA4D menghadirkan periode Toto Macau yang lengkap, riwayat hasil yang tersusun rapi, serta informasi pasaran yang mudah diakses dalam satu platform."
+        "text": "DODI4D menghadirkan periode Toto Macau yang lengkap, riwayat hasil yang tersusun rapi, serta informasi pasaran yang mudah diakses dalam satu platform."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah data periode di JUMPA4D selalu diperbarui?",
+      "name": "Apakah data periode di DODI4D selalu diperbarui?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Ya, data dan periode ditampilkan secara rutin sesuai jadwal yang berlaku, sehingga pemain dapat memantau hasil terbaru maupun riwayat sebelumnya dengan mudah."
@@ -559,18 +559,18 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
     },
     {
       "@type": "Question",
-      "name": "Apakah JUMPA4D mudah diakses melalui perangkat mobile?",
+      "name": "Apakah DODI4D mudah diakses melalui perangkat mobile?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Platform JUMPA4D dirancang responsif, sehingga dapat diakses dengan lancar melalui desktop maupun perangkat mobile tanpa mengurangi fitur utama."
+        "text": "Platform DODI4D dirancang responsif, sehingga dapat diakses dengan lancar melalui desktop maupun perangkat mobile tanpa mengurangi fitur utama."
       }
     },
     {
       "@type": "Question",
-      "name": "Siapa saja yang cocok menggunakan platform JUMPA4D?",
+      "name": "Siapa saja yang cocok menggunakan platform DODI4D?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "JUMPA4D cocok untuk pemain yang mencari akses periode terlengkap, tampilan sederhana, dan informasi yang jelas, baik untuk pemula maupun pengguna berpengalaman."
+        "text": "DODI4D cocok untuk pemain yang mencari akses periode terlengkap, tampilan sederhana, dan informasi yang jelas, baik untuk pemula maupun pengguna berpengalaman."
       }
     }
   ]
@@ -582,13 +582,13 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "JUMPA4D",
+            "name": "DODI4D",
             "url": "https://dodi4d-vip.github.io/",
             "logo": "https://ik.imagekit.io/2u2pznarsb/imgpsh_fullsize_anim%20(6).webp?updatedAt=1739493799672",
             "sameAs": [
-                "https://www.facebook.com/JUMPA4D",
-                "https://www.youtube.com/JUMPA4D",
-                "https://telegram/JUMPA4D"
+                "https://www.facebook.com/DODI4D",
+                "https://www.youtube.com/DODI4D",
+                "https://telegram/DODI4D"
             ],
             "contactPoint": {
                 "@type": "ContactPoint",
@@ -607,7 +607,7 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
     {
       "@type": "Organization",
       "@id": "https://dodi4d-vip.github.io/#org",
-      "name": "JUMPA4D",
+      "name": "DODI4D",
       "url": "https://dodi4d-vip.github.io/",
       "logo": "https://ik.imagekit.io/2u2pznarsb/imgpsh_fullsize_anim%20(6).webp?updatedAt=1739493799672"
     },
@@ -615,7 +615,7 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
       "@type": "WebSite",
       "@id": "https://dodi4d-vip.github.io/#website",
       "url": "https://dodi4d-vip.github.io/",
-      "name": "JUMPA4D",
+      "name": "DODI4D",
       "publisher": { "@id": "https://dodi4d-vip.github.io/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
@@ -627,7 +627,7 @@ Selamat Datang Di JUMPA4D - Official Platform Bandar Toto Macau Terlengkap
     {
       "@type": "SoftwareApplication",
       "@id": "https://dodi4d-vip.github.io/#app",
-      "name": "JUMPA4D",
+      "name": "DODI4D",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
@@ -652,7 +652,7 @@ Design ID:
 
 <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp'>
 <div class='m-design-details__title'>
-<h1 class='h__h1--sm h--no-s-b' title='JUMPA4D - George Kittle - T-Shirt'>JUMPA4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik</h1>
+<h1 class='h__h1--sm h--no-s-b' title='DODI4D - George Kittle - T-Shirt'>DODI4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik</h1>
 <div class='m-design__prices'>
 <span class='m-design__price m-design__price--sale jsProductSalePrice'>
 I
@@ -691,12 +691,12 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='JUMPA4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik by Hey JUMPA4D' class='mockup jsProductMainImage' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
+<img alt='DODI4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik by Hey DODI4D' class='mockup jsProductMainImage' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='JUMPA4D by Hey JUMPA4D' class='preview jsProductMainImage' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
+<img alt='DODI4D by Hey DODI4D' class='preview jsProductMainImage' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
 </picture>
 </li>
 </ul>
@@ -720,7 +720,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='JUMPA4D ️ Platform Game Online Praktis dengan Peluang Kemenangan Menarik by Hey JUMPA4D' class='mockup' loading='lazy' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
+<img alt='DODI4D ️ Platform Game Online Praktis dengan Peluang Kemenangan Menarik by Hey DODI4D' class='mockup' loading='lazy' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
 </picture>
 
 </span>
@@ -728,7 +728,7 @@ Back
 </a><a data-id="1" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-<img alt='JUMPA4D ' class='preview' loading='lazy' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
+<img alt='DODI4D ' class='preview' loading='lazy' src='https://ik.imagekit.io/2u2pznarsb/togel2win%20welcome.png?updatedAt=1770380217715'>
 </picture>
 
 </span>
@@ -745,7 +745,7 @@ Back
 <div class='m-cart-config__option m-cart-config__option--color jsCartConfigColorOption' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='color' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <p class='m-cart-config__color-label'>
 <strong>BY:</strong>
-<span class='m-cart-config__color-name jsConfigColorName'>JUMPA4D X SEO KELENG.</span>
+<span class='m-cart-config__color-name jsConfigColorName'>DODI4D X SEO KELENG.</span>
 </p>
 <div class='m-cart-config__colors2 jsCartConfigColors jsHorizontalScroll' role='radiogroup'>
 </div>
@@ -773,11 +773,11 @@ Style
 <div class='radio-selector__radios radio-selector__radios--wrap jsCartConfigRadio radio-selector__radios--wrap-3 style'>
 <label>
 <input checked class='radio-selector__radio' type='radio' value='79'>
-<span class='radio-selector__select'>JUMPA4D</span>
+<span class='radio-selector__select'>DODI4D</span>
 </label>
 <label>
 <input class='radio-selector__radio' type='radio' value='218'>
-<span class='radio-selector__select'>JUMPA4D MACAU</span>
+<span class='radio-selector__select'>DODI4D MACAU</span>
 </label>
 <label>
 <input class='radio-selector__radio' type='radio' value='80'>
@@ -866,7 +866,7 @@ View Size Chart
 Read more
 </div>
 
-</button>JUMPA4D ️ Platform Game Online Praktis dengan Peluang Kemenangan Menarik
+</button>DODI4D ️ Platform Game Online Praktis dengan Peluang Kemenangan Menarik
 </div>
 </div>
 </div>
@@ -1157,18 +1157,18 @@ Read more
             color: #ffd700;
         }
         
-        /* JUMPA4D */
-        .JUMPA4D {
+        /* DODI4D */
+        .DODI4D {
             padding: 60px 0;
             background: rgba(255, 255, 255, 0.03);
         }
         
-        .JUMPA4D-container {
+        .DODI4D-container {
             max-width: 800px;
             margin: 0 auto;
         }
         
-        .JUMPA4D-item {
+        .DODI4D-item {
             margin-bottom: 15px;
             border-radius: 10px;
             overflow: hidden;
@@ -1177,11 +1177,11 @@ Read more
             border: 1px solid rgba(212, 175, 55, 0.2);
         }
         
-        .JUMPA4D-item:hover {
+        .DODI4D-item:hover {
             border-color: #ffd700;
         }
         
-        .JUMPA4D-question {
+        .DODI4D-question {
             background: linear-gradient(90deg, var(--gray-medium) 0%, var(--gray-dark) 100%);
             padding: 20px;
             cursor: pointer;
@@ -1191,22 +1191,22 @@ Read more
             transition: all 0.3s ease;
         }
         
-        .JUMPA4D-question:hover {
+        .DODI4D-question:hover {
             background: linear-gradient(90deg, var(--gray-medium) 0%, #3a3a3a 100%);
         }
         
-        .JUMPA4D-question h3 {
+        .DODI4D-question h3 {
             font-size: 1.2rem;
             color: var(--white);
         }
         
-        .JUMPA4D-icon {
+        .DODI4D-icon {
             color: #ffd700;
             font-size: 1.5rem;
             transition: transform 0.3s ease;
         }
         
-        .JUMPA4D-answer {
+        .DODI4D-answer {
             background: var(--gray-dark);
             padding: 0 20px;
             max-height: 0;
@@ -1214,17 +1214,17 @@ Read more
             transition: max-height 0.5s ease, padding 0.3s ease;
         }
         
-        .JUMPA4D-answer p {
+        .DODI4D-answer p {
             padding: 20px 0;
             color: var(--gray-light);
         }
         
-        .JUMPA4D-item.active .JUMPA4D-answer {
+        .DODI4D-item.active .DODI4D-answer {
             max-height: 500px;
             padding: 0 20px;
         }
         
-        .JUMPA4D-item.active .JUMPA4D-icon {
+        .DODI4D-item.active .DODI4D-icon {
             transform: rotate(180deg);
         }
         
@@ -1270,7 +1270,7 @@ Read more
 }
     </style>
    <style>
-                                /* === Artikel Container Tema JUMPA4D (RAPI) === */
+                                /* === Artikel Container Tema DODI4D (RAPI) === */
                                 .article-container {
                                   margin: 30px auto; /* jarak dari atas/bawah */
                                   padding: 25px 20px; /* padding lebih compact */
@@ -1361,10 +1361,10 @@ Read more
                                 }
                                 </style>
                                 
-                                <!-- === Artikel JUMPA4D RAPI tanpa H1/H2 === -->
+                                <!-- === Artikel DODI4D RAPI tanpa H1/H2 === -->
                                 <div class="article-container">
-                                 <p class="t-body -size-m h-m0"><a href="https://dodi4d-vip.github.io/">JUMPA4D</a> menawarkan sistem permainan yang responsif dan mudah diakses dari berbagai perangkat seperti HP maupun desktop. Platform game online umumnya mengutamakan kecepatan akses agar pemain bisa bermain tanpa hambatan dan lebih nyaman.</p>
-                                 <p>Keunggulan JUMPA4D Salah satu daya tarik utama adalah adanya berbagai bonus seperti bonus harian, cashback, hingga promo khusus yang membantu meningkatkan peluang keuntungan pemain. Program promosi seperti ini memang menjadi nilai tambah penting di platform game online.</p>
+                                 <p class="t-body -size-m h-m0"><a href="https://dodi4d-vip.github.io/">DODI4D</a> menawarkan sistem permainan yang responsif dan mudah diakses dari berbagai perangkat seperti HP maupun desktop. Platform game online umumnya mengutamakan kecepatan akses agar pemain bisa bermain tanpa hambatan dan lebih nyaman.</p>
+                                 <p>Keunggulan DODI4D Salah satu daya tarik utama adalah adanya berbagai bonus seperti bonus harian, cashback, hingga promo khusus yang membantu meningkatkan peluang keuntungan pemain. Program promosi seperti ini memang menjadi nilai tambah penting di platform game online.</p>
                                  <p>Dengan menyediakan beragam jenis permainan dari berbagai provider populer sehingga pemain tidak mudah bosan. Fitur lengkap serta variasi permainan menjadi faktor penting dalam meningkatkan pengalaman bermain yang lebih seru dan fleksibel.</p>
                                 </div>
     </section>
@@ -1372,7 +1372,7 @@ Read more
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FAQ & Reviews JUMPA4D</title>
+<title>FAQ & Reviews DODI4D</title>
 
 <!-- ====== FAQ (5) + MOST RELEVANT (4) + GLOW MERAH KELILING ====== -->
 <style>
@@ -1473,41 +1473,41 @@ Read more
 
     <div style="max-width:820px;margin:20px auto;font-family:Arial,Helvetica,sans-serif;color:#111;">
       <h2 style="font-size:22px;margin:0 0 14px 0;line-height:1.3;">
-        FAQ JUMPA4D
+        FAQ DODI4D
       </h2>
     
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin-bottom:10px;background:#fff;">
-        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">1) Apa itu JUMPA4D dan mengapa cocok untuk main Toto Macau?</div>
+        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">1) Apa itu DODI4D dan mengapa cocok untuk main Toto Macau?</div>
         <div style="font-size:14px;line-height:1.7;color:#374151;">
-          JUMPA4D adalah official platform Bandar Toto Macau yang menyediakan informasi dan layanan permainan dengan data periode serta pasaran yang lengkap dan terupdate secara berkala.
+          DODI4D adalah official platform Bandar Toto Macau yang menyediakan informasi dan layanan permainan dengan data periode serta pasaran yang lengkap dan terupdate secara berkala.
         </div>
       </div>
     
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin-bottom:10px;background:#fff;">
-        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">2) Mengapa JUMPA4D disebut platform terlengkap?</div>
+        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">2) Mengapa DODI4D disebut platform terlengkap?</div>
         <div style="font-size:14px;line-height:1.7;color:#374151;">
-          JUMPA4D menghadirkan periode Toto Macau yang lengkap, riwayat hasil yang tersusun rapi, serta informasi pasaran yang mudah diakses dalam satu platform.
+          DODI4D menghadirkan periode Toto Macau yang lengkap, riwayat hasil yang tersusun rapi, serta informasi pasaran yang mudah diakses dalam satu platform.
         </div>
       </div>
     
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin-bottom:10px;background:#fff;">
-        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">3) Apakah data periode di JUMPA4D selalu diperbarui?</div>
+        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">3) Apakah data periode di DODI4D selalu diperbarui?</div>
         <div style="font-size:14px;line-height:1.7;color:#374151;">
           Ya, data dan periode ditampilkan secara rutin sesuai jadwal yang berlaku, sehingga pemain dapat memantau hasil terbaru maupun riwayat sebelumnya dengan mudah.
         </div>
       </div>
     
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin-bottom:10px;background:#fff;">
-        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">4) Apakah JUMPA4D mudah diakses melalui perangkat mobile?</div>
+        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">4) Apakah DODI4D mudah diakses melalui perangkat mobile?</div>
         <div style="font-size:14px;line-height:1.7;color:#374151;">
-          Platform JUMPA4D dirancang responsif, sehingga dapat diakses dengan lancar melalui desktop maupun perangkat mobile tanpa mengurangi fitur utama.
+          Platform DODI4D dirancang responsif, sehingga dapat diakses dengan lancar melalui desktop maupun perangkat mobile tanpa mengurangi fitur utama.
         </div>
       </div>
     
       <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin-bottom:10px;background:#fff;">
-        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">5) iapa saja yang cocok menggunakan platform JUMPA4D?</div>
+        <div style="font-weight:700;font-size:16px;margin-bottom:6px;">5) iapa saja yang cocok menggunakan platform DODI4D?</div>
         <div style="font-size:14px;line-height:1.7;color:#374151;">
-          JUMPA4D cocok untuk pemain yang mencari akses periode terlengkap, tampilan sederhana, dan informasi yang jelas, baik untuk pemula maupun pengguna berpengalaman.
+          DODI4D cocok untuk pemain yang mencari akses periode terlengkap, tampilan sederhana, dan informasi yang jelas, baik untuk pemula maupun pengguna berpengalaman.
         </div>
       </div>
     
@@ -1515,7 +1515,7 @@ Read more
         Catatan: Pastikan mengikuti aturan dan batasan usia yang berlaku di wilayah Anda, serta bermain secara bertanggung jawab.
       </div>
     </div>
-    <h2 class="mw-title" style="margin-top:34px;">Testimoni Pemain JUMPA4D</h2>
+    <h2 class="mw-title" style="margin-top:34px;">Testimoni Pemain DODI4D</h2>
     <div style="max-width:920px;margin:20px auto;font-family:Arial,Helvetica,sans-serif;">
     
       <div style="display:flex;flex-wrap:wrap;gap:12px;">
@@ -1544,7 +1544,7 @@ Read more
             <div style="font-size:12px;color:#6b7280;">?????</div>
           </div>
           <div style="margin-top:8px;font-size:14px;line-height:1.7;color:#374151;">
-            Sejak bergabung di JUMPA4D, saya merasa lebih nyaman karena pilihan pasaran Toto Macau sangat lengkap. Proses deposit cepat dan hasil keluaran selalu update tepat waktu.
+            Sejak bergabung di DODI4D, saya merasa lebih nyaman karena pilihan pasaran Toto Macau sangat lengkap. Proses deposit cepat dan hasil keluaran selalu update tepat waktu.
           </div>
           <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;gap:10px;">
             <span style="font-size:12px;color:#6b7280;">28 Jan 2026</span>
@@ -1561,7 +1561,7 @@ Read more
             <div style="font-size:12px;color:#6b7280;">?????</div>
           </div>
           <div style="margin-top:8px;font-size:14px;line-height:1.7;color:#374151;">
-            Menurut saya, sistem di JUMPA4D stabil dan jarang mengalami gangguan. Pasang angka jadi lebih praktis, dan proses withdraw juga tidak pernah terlambat.
+            Menurut saya, sistem di DODI4D stabil dan jarang mengalami gangguan. Pasang angka jadi lebih praktis, dan proses withdraw juga tidak pernah terlambat.
           </div>
           <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;gap:10px;">
             <span style="font-size:12px;color:#6b7280;">12 Jan 2026</span>
@@ -1592,7 +1592,7 @@ Read more
 
     <div class="seller-name__detail">
       <a href="https://happycuan.pages.dev/" target="_top" rel="noopener noreferrer">
-        JUMPA4D - 2026
+        DODI4D - 2026
       </a>
     </div>
   </div>
@@ -1728,7 +1728,7 @@ Share this design:
 <div class='m-footer__legal-bar-container wrapper'>
 <div class='m-footer__legal-bar-header'>
 <div class='m-footer__legal-bar-header-copyright'>
-  Seo Aress X JUMPA4D
+  Seo Aress X DODI4D
 </div>
 <div class='m-footer__legal-bar-header-browse-preferences'>
 <button type="button" class="btn jsChangeIntlSettings btn--no-space tp-btn--medium btn--no-background btn--cta btn--cta--on-dark tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/globe_primary400-4459871cc25767dbb110c87407d9654283057ec0715e24b8bfb9e0f0aad7cfe9.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false"></span>
@@ -2238,7 +2238,7 @@ Back To Menu
   <img class="vc-header-logo__image" 
        src="https://ik.imagekit.io/2u2pznarsb/imgpsh_fullsize_anim%20(6).webp?updatedAt=1739493799672"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
-       alt="JUMPA4D Logo">
+       alt="DODI4D Logo">
 </picture>
 
 
@@ -2433,9 +2433,9 @@ All Popular Designs
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="JUMPA4D" data-href="https://teepublic.zendesk.com/hc/" href="https://teepublic.zendesk.com/hc/" class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="20" height="20" focusable="false" aria-hidden="true"><path d="M42.049 21.297a1.951 1.951 0 0 1 0 3.902H39.95a1.951 1.951 0 0 1 0-3.902h2.098Zm-36.098 0a1.951 1.951 0 0 0 0 3.902H8.05a1.951 1.951 0 0 0 0-3.902h-2.1ZM22 6a2 2 0 1 1 4 0v1.854a2 2 0 1 1-4 0V6Zm-.373 38a2.927 2.927 0 0 1 0-5.854h5.146a2.927 2.927 0 0 1 0 5.854h-5.146ZM35.353 9.89a2.035 2.035 0 0 1 2.829 0 1.918 1.918 0 0 1 0 2.76l-1.414 1.38a2.035 2.035 0 0 1-2.829 0 1.918 1.918 0 0 1 0-2.76l1.414-1.38Zm-22.706 0a2.035 2.035 0 0 0-2.829 0 1.918 1.918 0 0 0 0 2.76l1.414 1.38a2.035 2.035 0 0 0 2.829 0 1.918 1.918 0 0 0 0-2.76l-1.414-1.38ZM30.5 33c0-.352.121-.708.395-.93A10.98 10.98 0 0 0 35 23.5c0-6.075-4.925-11-11-11s-11 4.925-11 11a10.98 10.98 0 0 0 4.105 8.57c.274.222.395.578.395.93a2.5 2.5 0 0 0 2.5 2.5h8a2.5 2.5 0 0 0 2.5-2.5Z"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="DODI4D" data-href="https://teepublic.zendesk.com/hc/" href="https://teepublic.zendesk.com/hc/" class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="20" height="20" focusable="false" aria-hidden="true"><path d="M42.049 21.297a1.951 1.951 0 0 1 0 3.902H39.95a1.951 1.951 0 0 1 0-3.902h2.098Zm-36.098 0a1.951 1.951 0 0 0 0 3.902H8.05a1.951 1.951 0 0 0 0-3.902h-2.1ZM22 6a2 2 0 1 1 4 0v1.854a2 2 0 1 1-4 0V6Zm-.373 38a2.927 2.927 0 0 1 0-5.854h5.146a2.927 2.927 0 0 1 0 5.854h-5.146ZM35.353 9.89a2.035 2.035 0 0 1 2.829 0 1.918 1.918 0 0 1 0 2.76l-1.414 1.38a2.035 2.035 0 0 1-2.829 0 1.918 1.918 0 0 1 0-2.76l1.414-1.38Zm-22.706 0a2.035 2.035 0 0 0-2.829 0 1.918 1.918 0 0 0 0 2.76l1.414 1.38a2.035 2.035 0 0 0 2.829 0 1.918 1.918 0 0 0 0-2.76l-1.414-1.38ZM30.5 33c0-.352.121-.708.395-.93A10.98 10.98 0 0 0 35 23.5c0-6.075-4.925-11-11-11s-11 4.925-11 11a10.98 10.98 0 0 0 4.105 8.57c.274.222.395.578.395.93a2.5 2.5 0 0 0 2.5 2.5h8a2.5 2.5 0 0 0 2.5-2.5Z"></path></svg></span>
 <span class='link__content'>
-<span>JUMPA4D</span>
+<span>DODI4D</span>
 
 </span>
 
@@ -2473,7 +2473,7 @@ Shop All Designs
 <div class='custom-modal-content'>
 <div class='m-browse-preferences'>
 <div class='m-browse-preferences__h'>Update Your Browsing Preferences</div>
-<form action="/browse_preferences/change" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off" /><input value="{&quot;design_slug&quot;:&quot;t-shirt&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74235272-JUMPA4D-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
+<form action="/browse_preferences/change" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off" /><input value="{&quot;design_slug&quot;:&quot;t-shirt&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74235272-DODI4D-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
 <div class='form__group'>
 <div class='form__field'>
 <label class="label--heavy" for="country">Shipping Country:</label>
@@ -2841,7 +2841,7 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
 <script>
   window.addEventListener('load', function() {
     if (window.rudderanalytics && true) {
-      window.rudderanalytics.page({"account_type":"guest","cart_id":{"public_id":"9a8c68d58aaa0c110ea9655af8a790a4"},"is_signed_in":false,"iso_currency_code":"USD","request_action":"show","request_controller":"product_pages","request_id":"74235272-JUMPA4D-f-dallas-kittle","shipping_country":"KH","user_id":null,"experiments":[{"experiment_name":"con-3051-pasf","variant_name":"default"}],"website_id":1,"subdomain_name":"www","domain_name":"teepublic.com","store_name":null,"store_id":null,"xcfb":"1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d","canvas":"T-Shirt","canvas_group":"Adult Apparel","canvas_id":1,"design_id":74235272,"design_image_url":"https://res.cloudinary.com/teepublic/image/private/s--L80ZO4l8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_600,q_90,w_600/v1744337506/production/designs/74235272_0.jpg","design_primary_tag":"JUMPA4D","design_title":"JUMPA4D","is_on_sale":false,"marketing_sku":"84165122D1V17G79A7C","owner_account_type":"Designer","owner_id":6705586,"owner_username":"Hey JUMPA4D","price_usd":23.0,"product_color":"Red","product_description":"Classic T-Shirt, Male Fit | Small, Red","product_gender":"Male Fit","product_id":357,"product_size":"S","product_style":"Classic T-Shirt","search_type":"default"});
+      window.rudderanalytics.page({"account_type":"guest","cart_id":{"public_id":"9a8c68d58aaa0c110ea9655af8a790a4"},"is_signed_in":false,"iso_currency_code":"USD","request_action":"show","request_controller":"product_pages","request_id":"74235272-DODI4D-f-dallas-kittle","shipping_country":"KH","user_id":null,"experiments":[{"experiment_name":"con-3051-pasf","variant_name":"default"}],"website_id":1,"subdomain_name":"www","domain_name":"teepublic.com","store_name":null,"store_id":null,"xcfb":"1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d","canvas":"T-Shirt","canvas_group":"Adult Apparel","canvas_id":1,"design_id":74235272,"design_image_url":"https://res.cloudinary.com/teepublic/image/private/s--L80ZO4l8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_600,q_90,w_600/v1744337506/production/designs/74235272_0.jpg","design_primary_tag":"DODI4D","design_title":"DODI4D","is_on_sale":false,"marketing_sku":"84165122D1V17G79A7C","owner_account_type":"Designer","owner_id":6705586,"owner_username":"Hey DODI4D","price_usd":23.0,"product_color":"Red","product_description":"Classic T-Shirt, Male Fit | Small, Red","product_gender":"Male Fit","product_id":357,"product_size":"S","product_style":"Classic T-Shirt","search_type":"default"});
     }
   });
 </script>
@@ -3185,8 +3185,8 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
             </div>
 
             <div class="popup-footer">
-                JUMPA4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik<br/>
-                <span style="color: #ffcb20; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 JUMPA4D x SEO ARESS</span>
+                DODI4D - Platform Game Online Praktis dengan Peluang Kemenangan Menarik<br/>
+                <span style="color: #ffcb20; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 DODI4D x SEO ARESS</span>
             </div>
         </div>
     </div>
